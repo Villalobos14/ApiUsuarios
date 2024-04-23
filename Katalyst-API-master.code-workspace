@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Katalyst-Data-API-master"
+		},
+		{
+			"path": "../Katalyst-WS-master"
+		},
+		{
+			"path": "../Katalyst-MQCOnsumer-master"
+		}
+	]
+}
